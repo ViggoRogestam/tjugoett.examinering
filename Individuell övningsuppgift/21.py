@@ -79,8 +79,8 @@ print('''- The goal is to have a hand that
   wins.''')
 
 print('\n\033[1mCard Values:\033[0m')
-print('- Number cars (2-10) are worth their face values')
-print('''- Face cars hav the following values:
+print('- Number cards (2-10) are worth their face values')
+print('''- Face cards have the following values:
    * King: 13 points
    * Queen: 12 points
    * Jack: 11 points
