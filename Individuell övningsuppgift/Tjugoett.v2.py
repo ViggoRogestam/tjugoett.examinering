@@ -182,7 +182,7 @@ def calculate_result():
         print('\033[1m\nPlayer Wins!\033[0m')
 
 
-# Game LOOP:
+
 # Create Deck
 deck = Deck()
 deck.get_deck()
@@ -200,7 +200,7 @@ input('Press Enter to start...')
 # Clear termnal
 clear_terminal()
 
-# stay or hit
+# Game LOOP:
 while player_in:
     clear_terminal()
     # Print cards from player hand
