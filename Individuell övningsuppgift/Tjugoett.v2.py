@@ -182,7 +182,6 @@ def calculate_result():
         print('\033[1m\nPlayer Wins!\033[0m')
 
 
-
 # Game LOOP:
 # Create Deck
 deck = Deck()
